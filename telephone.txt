@@ -1,4 +1,17 @@
+<<<<<<< Updated upstream
 NetlOgic Solution
 Course-QA Selenium
 
 Online Course
+=======
+NetLogic Solution
+
+Trainer - Vinay
+
+Coordinator- Balaji
+
+Course Name- QA Selenium
+
+Online Course
+
+>>>>>>> Stashed changes
